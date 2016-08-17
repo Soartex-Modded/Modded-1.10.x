@@ -1,0 +1,5 @@
+noEnergyNet
+noRecipient
+noSpaceTank
+notAlphaNumeric
+ok

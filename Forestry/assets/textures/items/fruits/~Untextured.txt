@@ -1,0 +1,6 @@
+chestnut
+dates
+lemon
+papaya
+plum
+walnut

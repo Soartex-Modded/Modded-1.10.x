@@ -1,0 +1,5 @@
+bark.palm
+bark.plum
+bark.walnut
+bark.zebrawood
+heart.zebrawood

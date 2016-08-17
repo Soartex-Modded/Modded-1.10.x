@@ -1,0 +1,6 @@
+conifers.changed.plain
+deciduous.changed.plain
+jungle.changed.plain
+maple.changed.plain
+palm.changed.plain
+willow.changed.plain

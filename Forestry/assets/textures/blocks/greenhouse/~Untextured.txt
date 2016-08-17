@@ -1,0 +1,12 @@
+butterfly_hatch
+control
+dryer
+fan.off
+fan.on
+gears
+hatch
+hatch_input
+hatch_output
+heater.off
+heater.on
+valve

@@ -1,0 +1,4 @@
+cocoon_early
+cocoon_late
+cocoon_middle
+cocoon_silk_late
