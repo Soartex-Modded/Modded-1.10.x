@@ -1,0 +1,6 @@
+cell_state_empty.png
+cell_state_full.png
+cell_state_offline.png
+cell_state_online.png
+front_item.png
+top_item.png
