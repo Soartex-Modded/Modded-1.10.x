@@ -1,8 +1,0 @@
-ash
-block_0_14
-block_12_13
-block_12_14
-block_12_15
-block_13_14
-block_13_15
-loam
