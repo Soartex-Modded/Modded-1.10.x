@@ -1,0 +1,14 @@
+quartz_glass_frame0001.png
+quartz_glass_frame0010.png
+quartz_glass_frame0011.png
+quartz_glass_frame0100.png
+quartz_glass_frame0101.png
+quartz_glass_frame0110.png
+quartz_glass_frame0111.png
+quartz_glass_frame1000.png
+quartz_glass_frame1001.png
+quartz_glass_frame1010.png
+quartz_glass_frame1011.png
+quartz_glass_frame1100.png
+quartz_glass_frame1101.png
+quartz_glass_frame1110.png

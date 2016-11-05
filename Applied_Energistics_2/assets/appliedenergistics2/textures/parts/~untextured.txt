@@ -1,0 +1,17 @@
+identity_annihilation_plane_on.png
+identity_annihilation_plane_on.png.mcmeta
+monitor_back.png
+monitor_bright.png
+monitor_colored.png
+monitor_front.png
+monitor_light.png
+monitor_sides.png
+monitor_sides_status_has_channel.png
+monitor_sides_status_off.png
+monitor_sides_status_on.png
+
+
+
+
+
+
