@@ -1,0 +1,10 @@
+{
+  "mod_id": "DavincisVessels",
+  "mod_name": "Davincis Vessels",
+  "mod_dir": "/Davincis_Vessels/",
+  "mod_version": "1.9",
+  "mc_version": "1.10.x",
+  "mod_authors": ["darkevilmac (Maintainer), BalkondeurAlpha (Original Author)"],
+  "url_website": "https://github.com/elytra/DavincisVessels/releases/tag/MC1.8.9",
+  "description": "Craft and create your own ship... And sail it across the seven seas!"
+}
