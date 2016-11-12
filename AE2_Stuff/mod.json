@@ -1,0 +1,10 @@
+{
+  "mod_id": "ae2stuff",
+  "mod_name": "AE2 Stuff",
+  "mod_dir": "/AE2_Stuff/",
+  "mod_version": "0.6.0.5",
+  "mc_version": "1.10.2",
+  "mod_authors": ["bdew"],
+  "url_website": "http://minecraft.curseforge.com/mc-mods/225194-ae2-stuff",
+  "description": "This mods adds various bits and machines to Applied Energistics 2."
+}
