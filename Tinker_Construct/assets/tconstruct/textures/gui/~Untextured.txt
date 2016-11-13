@@ -1,0 +1,4 @@
+battlesignText.png
+bookmodify.png
+booksmeltery.png
+extractor.png
