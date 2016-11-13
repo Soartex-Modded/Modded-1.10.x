@@ -1,0 +1,10 @@
+{
+  "mod_id": "MoCreatures",
+  "mod_name": "Mo Creatures",
+  "mod_dir": "/Mo_Creatures/",
+  "mod_version": "10.0.5",
+  "mc_version": "1.10.x",
+  "mod_authors": ["DrZhark"],
+  "url_website": "http://mocreatures.org/",
+  "description": "This mod adds many more creatures to Minecraft."
+}
