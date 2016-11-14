@@ -2,9 +2,9 @@
   "mod_id": "harvestcraft",
   "mod_name": "Pam's HarvestCraft",
   "mod_dir": "/Pams_HarvestCraft/",
-  "mod_version": "1.9.4-1.10.2g",
-  "mc_version": "1.10.x",
-  "mod_authors": ["Pamela Collins"],
-  "url_website": "http://minecraft.curseforge.com/members/MatrexsVigil/projects",
+  "mod_version": "1.9.4-1.10.2h",
+  "mc_version": "1.10.2",
+  "mod_authors": ["MatrexsVigil"],
+  "url_website": "https://minecraft.curseforge.com/projects/pams-harvestcraft",
   "description": "An absolutely huge farming and food mod."
 }
