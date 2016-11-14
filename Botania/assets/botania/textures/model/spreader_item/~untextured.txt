@@ -1,0 +1,9 @@
+elven_inside.png
+elven_side.png
+gaia_inside.png
+gaia_side.png
+mana_inside.png
+mana_side.png
+redstone_inside.png
+redstone_material.png
+redstone_side.png

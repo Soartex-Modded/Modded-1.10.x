@@ -1,0 +1,6 @@
+manaContains.png
+manaDetector.png
+manaEmpty.png
+manaFull.png
+manaSpace.png
+runeAltarCanCraft.png

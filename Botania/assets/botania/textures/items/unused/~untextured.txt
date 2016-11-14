@@ -1,0 +1,3 @@
+attachableAbacus.png
+heartAzoth.png
+terrorVisage.png
