@@ -1,13 +1,3 @@
-security_station_light_bright.png
-security_station_light_dark.png
-security_station_light_medium.png
-drive_front_flat.png
-drive_cell_states.png
-charged_quartz_ore.png
-quartz_fixture.png
-quartz_fixture_metal.png
-quartz_ore.png
-sky_compass.png
-tnt_bottom.png
-tnt_side.png
-tnt_top.png
+drive_cell_states
+quartz_fixture_metal
+sky_compass
