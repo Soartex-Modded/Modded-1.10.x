@@ -3,7 +3,7 @@
   "mod_name": "Chisel",
   "mod_dir": "/Chisel/",
   "mod_version": "0.0.7.3",
-  "mc_version": "1.10.x",
+  "mc_version": "1.10.2",
   "mod_authors": ["AUTOMATIC_MAIDEN", "Drullkus", "Pokefenn", "Cricket", "tterrag1098"],
   "url_website": "https://minecraft.curseforge.com/projects/chisel",
   "description": "A mod that adds in many fancy blocks for decoration, which are crafted utilising the Chisel."
