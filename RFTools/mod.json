@@ -1,7 +1,7 @@
 {
   "mod_id": "rftools",
-  "mod_name": "RF Tools",
-  "mod_dir": "/rftools/",
+  "mod_name": "RFTools",
+  "mod_dir": "/RFTools/",
   "mod_version": "5.59",
   "mc_version": "1.10.2",
   "mod_authors": ["McJty"],
