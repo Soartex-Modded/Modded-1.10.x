@@ -1,0 +1,3 @@
+side_off.png
+side_on.png
+top.png
