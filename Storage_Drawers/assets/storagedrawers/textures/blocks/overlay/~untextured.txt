@@ -1,0 +1,14 @@
+handle_1.png
+handle_2.png
+handle_4.png
+shading_boldtrim_1.png
+shading_boldtrim_2.png
+shading_boldtrim_4.png
+shading_face_1.png
+shading_face_2.png
+shading_face_4.png
+shading_trim_1.png
+shading_trim_2.png
+shading_trim_4.png
+shading_worktable_left.png
+shading_worktable_right.png
