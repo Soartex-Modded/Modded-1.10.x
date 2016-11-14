@@ -1,0 +1,6 @@
+shield0.png
+shield1.png
+shield2.png
+shield3.png
+shieldfull.png
+shieldtransparent.png

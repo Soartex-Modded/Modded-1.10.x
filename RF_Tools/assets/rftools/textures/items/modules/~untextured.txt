@@ -1,0 +1,17 @@
+buttonModuleItem.png
+clockModuleItem.png
+computerModuleItem.png
+counterModuleItem.png
+counterPlusModuleItem.png
+dumpModuleItem.png
+elevatorButtonModuleItem.png
+energyModuleItem.png
+energyPlusModuleItem.png
+fluidModuleItem.png
+fluidPlusModuleItem.png
+inventoryModuleItem.png
+inventoryPlusModuleItem.png
+machineInformationModuleItem.png
+redstoneModuleItem.png
+storageControlModuleItem.png
+textModuleItem.png
