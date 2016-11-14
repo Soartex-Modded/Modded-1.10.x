@@ -1,0 +1,2 @@
+block_textures.png
+item_textures.png

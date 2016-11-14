@@ -1,0 +1,3 @@
+solar_hat_high_voltage.png
+solar_hat_low_voltage.png
+solar_hat_medium_voltage.png
