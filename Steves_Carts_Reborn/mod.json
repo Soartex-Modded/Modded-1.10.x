@@ -1,0 +1,10 @@
+{
+  "mod_id": "stevescarts",
+  "mod_name": "Steves Carts Reborn",
+  "mod_dir": "/Steves_Carts_Reborn/",
+  "mod_version": "2.1.0.36",
+  "mc_version": "1.10.2",
+  "mod_authors": ["modmuss50", "Nedelosk"],
+  "url_website": "https://minecraft.curseforge.com/projects/steves-carts-reborn",
+  "description": "Steve's Carts Reborn is a 1.10.2 fork of Vswe's Steves Carts 2 mod."
+}
