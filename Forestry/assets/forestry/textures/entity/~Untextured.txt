@@ -1,2 +1,2 @@
-zombie_beekeeper
-zombie_lumberjack
+zombie_beekeeper.png
+zombie_lumberjack.png

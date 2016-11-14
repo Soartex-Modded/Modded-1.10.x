@@ -1,4 +1,4 @@
-cocoon_early
-cocoon_late
-cocoon_middle
-cocoon_silk_late
+cocoon_early.png
+cocoon_late.png
+cocoon_middle.png
+cocoon_silk_late.png

@@ -1,6 +1,6 @@
-conifers.changed.plain
-deciduous.changed.plain
-jungle.changed.plain
-maple.changed.plain
-palm.changed.plain
-willow.changed.plain
+conifers.changed.plain.png
+deciduous.changed.plain.png
+jungle.changed.plain.png
+maple.changed.plain.png
+palm.changed.plain.png
+willow.changed.plain.png

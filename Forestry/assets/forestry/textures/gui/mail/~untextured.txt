@@ -1,0 +1,2 @@
+carrier.player.png
+carrier.trader.png
