@@ -1,0 +1,6 @@
+Conduit.png
+Effect.png
+Enhancement.png
+Modifier.png
+Paradigm.png
+SimpleSpellTable.png
