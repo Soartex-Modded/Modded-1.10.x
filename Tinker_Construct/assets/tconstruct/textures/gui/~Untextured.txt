@@ -1,4 +1,10 @@
-battlesignText.png
-bookmodify.png
-booksmeltery.png
-extractor.png
+blank.png
+generic.png
+icons.png
+panel.png
+partbuilder.png
+seared_furnace.png
+smeltery.png
+stenciltable.png
+tinker_tank.png
+toolstation.png
