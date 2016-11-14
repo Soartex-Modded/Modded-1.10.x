@@ -1,0 +1,4 @@
+base.png
+otherBits.png
+tankSide.png
+tankTopFront.png

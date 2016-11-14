@@ -1,0 +1,6 @@
+center.png
+centerSide.png
+glass.png
+parts.png
+telePadHighlight.png
+telePadTop.png
