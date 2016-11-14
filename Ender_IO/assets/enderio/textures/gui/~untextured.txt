@@ -6,7 +6,6 @@ capacitorBank.png
 combustionGen.png
 crafter.png
 crusher.png
-enchanter.png
 experianceObelisk.png
 externalConduitConnection.png
 farmStation.png
