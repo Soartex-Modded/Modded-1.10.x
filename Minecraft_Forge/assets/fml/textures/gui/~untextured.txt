@@ -1,0 +1,3 @@
+forge.gif
+forge.png
+icons.png
