@@ -1,10 +1,10 @@
 {
   "mod_id": "trashslot",
-  "mod_name": "trashslot",
+  "mod_name": "Trashslot",
   "mod_dir": "/Trashslot/",
   "mod_version": "6.3.6",
-  "mc_version": "1.10.x",
+  "mc_version": "1.10.2",
   "mod_authors": ["BlayTheNinth"],
-  "url_website": "http://www.curseforge.com/projects/235577/",
+  "url_website": "https://minecraft.curseforge.com/projects/trashslot",
   "description": "Trash Slot to delete items by dropping them into it."
 }
