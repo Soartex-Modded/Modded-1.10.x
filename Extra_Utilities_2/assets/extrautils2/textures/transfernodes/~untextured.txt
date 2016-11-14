@@ -1,0 +1,7 @@
+battery_side.png
+battery_top.png
+insert_side.png
+transfernode_side.png
+transmitter_bottom.png
+transmitter_side.png
+transmitter_top.png

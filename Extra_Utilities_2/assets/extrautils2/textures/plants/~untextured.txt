@@ -1,0 +1,15 @@
+redorchid_0.png
+redorchid_1.png
+redorchid_2.png
+redorchid_3.png
+redorchid_4.png
+redorchid_5.png
+redorchid_6.png
+redorchid_base_0.png
+redorchid_base_1.png
+redorchid_base_2.png
+redorchid_base_3.png
+redorchid_base_4.png
+redorchid_base_5.png
+redorchid_base_6.png
+redorchid_seeds.png

@@ -1,0 +1,4 @@
+alchemist.png
+red_mechanic.png
+shady_merchant.png
+villager.png

@@ -1,0 +1,11 @@
+ward_eye_back_0.png
+ward_eye_back_1.png
+ward_eye_front_0.png
+ward_eye_front_1.png
+ward_eye_side_0.png
+ward_eye_side_1.png
+ward_eye_top_0.png
+ward_eye_top_1.png
+ward_iris_0.png
+ward_prongs.png
+ward_stick.png
