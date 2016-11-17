@@ -1,0 +1,9 @@
+crafting_core.png
+fusion_particle.png
+pedestal_base.png
+pedestal_core_basic.png
+pedestal_core_chaotic.png
+pedestal_core_draconic.png
+pedestal_core_wyvern.png
+pedestal_ring.png
+pedestal_top.png

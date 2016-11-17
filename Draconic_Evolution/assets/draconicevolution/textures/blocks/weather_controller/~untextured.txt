@@ -1,0 +1,7 @@
+weather_controller_rain.png
+weather_controller_rain_active.png
+weather_controller_sun.png
+weather_controller_sun_active.png
+weather_controller_thunderstorm.png
+weather_controller_thunderstorm_active.png
+weather_controller_top.png

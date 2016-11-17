@@ -1,4 +1,7 @@
+dislocator_receptacle_active.png
+dislocator_receptacle_inactive.png
 generator_front_active.png
 grinder_front_active.png
-machine_fan.png
+infused_obsidian.png
+machine_fan_active.png
 sun_dial_front_active.png

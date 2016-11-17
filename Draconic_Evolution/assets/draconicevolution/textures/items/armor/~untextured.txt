@@ -1,0 +1,8 @@
+draconic_boots.png
+draconic_chestplate.png
+draconic_helmet.png
+draconic_leggings.png
+wyvern_boots.png
+wyvern_chestplate.png
+wyvern_helmet.png
+wyvern_leggings.png
