@@ -1,7 +1,7 @@
 {
   "mod_id": "railcraft",
   "mod_name": "Railcraft",
-  "mod_dir": "/Railcraft",
+  "mod_dir": "/Railcraft/",
   "mod_version": "10.0.0",
   "mc_version": "1.10.2",
   "mod_authors": ["CovertJaguar"],
