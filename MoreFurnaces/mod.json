@@ -1,0 +1,10 @@
+{
+  "mod_id": "MoreFurnaces",
+  "mod_name": "MoreFurnaces",
+  "mod_dir": "/morefurnaces/",
+  "mod_version": "v1.8.2",
+  "mc_version": "1.10.2",
+  "mod_authors": ["CubeX2"],
+  "url_website": "http://www.minecraftforum.net/topic/506109-",
+  "description": "new furnaces"
+}
