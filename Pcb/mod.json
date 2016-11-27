@@ -1,7 +1,7 @@
 {
    "mod_id": "pcb",
    "mod_name": "Portable Craft Bench",
-   "mod_dir": "/pcb/",
+   "mod_dir": "/Pcb/",
    "mod_version": "unknown",
    "mc_version": "1.10.2",
    "mod_authors": ["RenEvo"],
