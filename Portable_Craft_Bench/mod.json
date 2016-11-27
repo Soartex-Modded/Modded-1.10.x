@@ -1,0 +1,10 @@
+{
+   "mod_id": "pcb",
+   "mod_name": "Portable Craft Bench",
+   "mod_dir": "/Portable_Craft_Bench/",
+   "mod_version": "unknown",
+   "mc_version": "1.10.2",
+   "mod_authors": ["RenEvo"],
+   "url_website": "https://github.com/RenEvo/pcb",
+   "description": "Simple mod that adds a portable crafting bench"
+}
