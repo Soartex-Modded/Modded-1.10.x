@@ -1,7 +1,7 @@
 {
-  "mod_id": "More_Furnaces",
-  "mod_name": "More_Furnaces",
-  "mod_dir": "/more_furnaces/",
+  "mod_id": "morefurnaces",
+  "mod_name": "More Furnaces",
+  "mod_dir": "/More_Furnaces/",
   "mod_version": "v1.8.2",
   "mc_version": "1.10.2",
   "mod_authors": ["CubeX2"],
