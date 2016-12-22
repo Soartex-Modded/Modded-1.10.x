@@ -1,0 +1,10 @@
+{
+  "mod_id": "EndMetals",
+  "mod_name": "End_Metals",
+  "mod_dir": "/end_metals/",
+  "mod_version": "v1.9.1.1.2",
+  "mc_version": "1.10.2",
+  "mod_authors": ["knoxhack"],
+  "url_website": "https://minecraft.curseforge.com/projects/end-metals",
+  "description": "Adds metal ores from other mods and vanilla to the End dimension "
+}
