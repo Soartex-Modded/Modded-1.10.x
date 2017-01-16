@@ -7,15 +7,12 @@ flowerBag.png
 hudIcons.png
 lexicon.png
 manaHud.png
-manaInfusionOverlay.png
 multiblockOverlay.png
 neiBlank.png
 neiBrewery.png
 paper.png
-petalOverlay.png
 potions.png
 pureDaisyOverlay.png
 sheddingOverlay.png
 stencil.png
-terrasteelOverlay.png
 toff.png
