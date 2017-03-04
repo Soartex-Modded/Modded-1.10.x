@@ -1,4 +1,2 @@
 base_default.png
 trim_default.png
-drawers_oak_side.png
-drawers_oak_trim.png

@@ -1,5 +1,0 @@
-drawers_1.png
-drawers_2.png
-drawers_4.png
-drawers_comp.png
-framing.png

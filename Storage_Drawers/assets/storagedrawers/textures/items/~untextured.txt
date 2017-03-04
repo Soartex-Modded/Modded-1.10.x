@@ -4,9 +4,3 @@ drawer_key_personal_cofh.png
 drawer_key_personal_default.png
 drawer_key_shroud.png
 tape_roll.png
-upgrade_creative_store.png
-upgrade_creative_vend.png
-upgrade_redstone_combined.png
-upgrade_redstone_max.png
-upgrade_redstone_min.png
-upgrade_sorting.png
