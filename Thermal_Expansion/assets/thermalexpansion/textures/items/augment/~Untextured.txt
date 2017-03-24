@@ -1,0 +1,12 @@
+dynamo_compression_fuel.png
+dynamo_steam_turbine.png
+dynamo_throttle.png
+machine_charger_throughput.png
+machine_compactor_mint.png
+machine_precipitator_batch_size.png
+machine_pulverizer_petrotheum.png
+machine_pulverizer_petrotheum.png.mcmeta
+machine_sawmill_tapper.png
+machine_sawmill_tapper.png.mcmeta
+machine_smelter_pyrotheum.png
+machine_smelter_pyrotheum.png.mcmeta

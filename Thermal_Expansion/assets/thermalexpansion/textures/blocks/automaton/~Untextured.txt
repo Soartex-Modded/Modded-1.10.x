@@ -1,0 +1,3 @@
+automaton_face_collector.png
+automaton_active_collector.png
+automaton_active_collector.png.mcmeta

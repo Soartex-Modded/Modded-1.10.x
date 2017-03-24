@@ -1,0 +1,6 @@
+machine_active_compactor.png
+machine_active_compactor.png.mcmeta
+machine_active_refinery.png
+machine_active_refinery.png.mcmeta
+machine_face_refinery.png
+machine_face_compactor.png
