@@ -1,0 +1,3 @@
+autojump_off.png
+autojump_on.png
+potions.png
