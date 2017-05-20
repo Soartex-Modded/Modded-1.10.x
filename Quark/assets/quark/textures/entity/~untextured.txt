@@ -1,0 +1,7 @@
+ashen.png
+ashen_overlay.png
+dweller.png
+pirate.png
+pirate_hat.png
+pirate_overlay.png
+wraith.png

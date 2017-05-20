@@ -1,0 +1,10 @@
+cheer.png
+clap.png
+facepalm.png
+headbang.png
+no.png
+point.png
+salute.png
+shrug.png
+wave.png
+yes.png

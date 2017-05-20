@@ -1,0 +1,2 @@
+info_distance.png
+info_duration.png

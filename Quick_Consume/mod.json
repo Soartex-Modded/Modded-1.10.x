@@ -1,0 +1,10 @@
+{
+  "mod_id": "quickconsume",
+  "mod_name": "Quick Consume",
+  "mod_dir": "/QuickConsume/",
+  "mod_version": "r3",
+  "mc_version": "1.10.2",
+  "mod_authors": ["Kain"],
+  "url_website": "https://minecraft.curseforge.com/projects/quick-consume",
+  "description": "Simple mod that adds 2 extra slots for consuming food with the click of a key."
+}
