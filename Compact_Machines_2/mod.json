@@ -1,0 +1,10 @@
+{
+  "mod_id": "cm2",
+  "mod_name": "Compact Machines 2",
+  "mod_dir": "/Compact_Machines_2/",
+  "mod_version": "2.0.0-b104",
+  "mc_version": "1.10.x",
+  "mod_authors": ["Davenonymous"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2220422",
+  "description": "Adds one simple game mechanic: Small rooms inside of blocks. It basically gives you the ability to build your contraptions inside of a single block."
+}
