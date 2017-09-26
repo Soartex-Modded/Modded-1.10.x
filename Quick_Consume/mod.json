@@ -1,7 +1,7 @@
 {
   "mod_id": "quickconsume",
   "mod_name": "Quick Consume",
-  "mod_dir": "/QuickConsume/",
+  "mod_dir": "/Quick_Consume/",
   "mod_version": "r3",
   "mc_version": "1.10.2",
   "mod_authors": ["Kain"],
