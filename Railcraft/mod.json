@@ -1,10 +1,13 @@
 {
-  "mod_id": "railcraft",
-  "mod_name": "Railcraft",
-  "mod_dir": "/Railcraft/",
-  "mod_version": "10.0.0",
-  "mc_version": "1.10.2",
-  "mod_authors": ["CovertJaguar"],
-  "url_website": "http://www.railcraft.info",
-  "description": "A mod that redefine rails in the game with the addition of steam related power generation"
+    "mod_id": "railcraft",
+    "mod_name": "Railcraft",
+    "mod_filename": "Railcraft_1.7.10-9.12.2.0.jar",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "Covert_Jaguar"
+    ],
+    "url_website": "http://railcraft.info/",
+    "description": "Redefine your rails!",
+    "mod_version": "10.0.0-beta-4",
+    "mod_dir": "/Railcraft/"
 }

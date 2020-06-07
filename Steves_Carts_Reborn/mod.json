@@ -1,10 +1,14 @@
 {
-  "mod_id": "stevescarts",
-  "mod_name": "Steves Carts Reborn",
-  "mod_dir": "/Steves_Carts_Reborn/",
-  "mod_version": "2.1.0.36",
-  "mc_version": "1.10.2",
-  "mod_authors": ["modmuss50", "Nedelosk"],
-  "url_website": "https://minecraft.curseforge.com/projects/steves-carts-reborn",
-  "description": "Steve's Carts Reborn is a 1.10.2 fork of Vswe's Steves Carts 2 mod."
+    "mod_name": "Steves Carts Reborn",
+    "mod_id": "stevescarts",
+    "mod_version": "2.2.0.86",
+    "mc_version": "1.10.2",
+    "url_website": "",
+    "description": "A carttastic mod adding a near infinite number of carts possible to the game, through the creation of  modular carts.",
+    "mod_filename": "StevesCarts2.0.0.b18.jar",
+    "mod_authors": [
+        "modmuss50",
+        "Nedelosk"
+    ],
+    "mod_dir": "/Steves_Carts_Reborn/"
 }
