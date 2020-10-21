@@ -1,10 +1,17 @@
 {
-  "mod_id": "enderio",
-  "mod_name": "Ender IO",
-  "mod_dir": "/Ender_IO/",
-  "mod_version": "3.0.1.128",
-  "mc_version": "1.10.2",
-  "mod_authors": ["CrazyPants", "tterrag1098"],
-  "url_website": "https://minecraft.curseforge.com/projects/ender-io",
-  "description": "Compact conduits, painted things and access to your stuff through an eye of ender."
+    "mod_id": "enderio",
+    "mod_name": "Ender IO",
+    "mod_filename": "EnderIO-1.7.10-2.3.0.428_beta.jar",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "CrazyPants_MC",
+        "HenryLoenwind",
+        "_ForgeUser20459859",
+        "EpicSquid315",
+        "tterrag1098"
+    ],
+    "url_website": "http://enderio.com",
+    "description": "Ender IO",
+    "mod_version": "1.10.2-3.1.192",
+    "mod_dir": "/Ender_IO/"
 }

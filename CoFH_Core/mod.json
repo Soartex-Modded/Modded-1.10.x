@@ -1,10 +1,14 @@
 {
-  "mod_id": "CoFHCore",
-  "mod_name": "CoFH Core",
-  "mod_dir": "/CoFH_Core/",
-  "mod_version": "v4.0.1.137",
-  "mc_version": "1.10.2",
-  "mod_authors": ["TeamCoFH", "KingLemming", "skyboy026", "ZeldoKavira"],
-  "url_website": "http://teamcofh.com/",
-  "description": "CoFH Core Module."
+    "mod_id": "CoFHCore",
+    "mod_name": "CoFH Core",
+    "mod_filename": "openmodularturrets-1.10.2-3.0.0-240.jar",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "TeamCoFH",
+        "KingLemmingCoFH"
+    ],
+    "url_website": "http://www.teamcofh.com",
+    "description": "Contains Core Functionality for all Team CoFH mods. Also does some really cool stuff on its own!",
+    "mod_version": "4.1.12.17",
+    "mod_dir": "/CoFH_Core/"
 }

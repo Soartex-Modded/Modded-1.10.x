@@ -1,0 +1,13 @@
+{
+    "mod_id": "advanced-solar-panels",
+    "mod_name": "Advanced Solar Panels",
+    "mod_filename": "Advanced Solar Panels-4.0.4.jar",
+    "mc_version": "1.10",
+    "mod_authors": [
+        "Chocohead"
+    ],
+    "url_website": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=13358",
+    "description": "Adds additional upgraded forms of the IC2 Solar Panel",
+    "mod_version": "4.0.4",
+    "mod_dir": "/Advanced_Solar_Panels/"
+}

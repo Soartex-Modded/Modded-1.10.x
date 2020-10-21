@@ -1,0 +1,12 @@
+{
+    "mod_name": "Mekanism Generators",
+    "mod_id": "mekanismgenerators",
+    "mod_version": "9.2.4",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "aidancbrady"
+    ],
+    "description": "Generators module of Mekanism.",
+    "mod_dir": "/Mekanism_Generators/",
+    "url_website": "http://aidancbrady.com/mekanism/"
+}

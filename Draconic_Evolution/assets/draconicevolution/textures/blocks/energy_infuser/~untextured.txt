@@ -1,4 +1,0 @@
-energy_infuser_bottom.png
-energy_infuser_decoration.png
-energy_infuser_side.png
-energy_infuser_top.png

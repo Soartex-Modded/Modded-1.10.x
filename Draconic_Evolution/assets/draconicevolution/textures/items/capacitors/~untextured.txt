@@ -1,3 +1,0 @@
-creative_capacitor.png
-draconic_capacitor.png
-wyvern_capacitor.png

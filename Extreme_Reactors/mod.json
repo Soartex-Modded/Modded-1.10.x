@@ -1,10 +1,13 @@
 {
-  "mod_id": "bigreactors",
-  "mod_name": "Extreme Reactors",
-  "mod_dir": "/Extreme_Reactors/",
-  "mod_version": "0.4.5.19",
-  "mc_version": "1.10.2",
-  "mod_authors": ["ZeroNoRyouki", "ABookFreak"],
-  "url_website": "https://minecraft.curseforge.com/projects/extreme-reactors",
-  "description": "Giants Reactors to harness the power of the atom or mighty Turbines to turn steam into energy? Why not both?"
+    "mod_id": "bigreactors",
+    "mod_name": "Extreme Reactors",
+    "mod_filename": "ExtremeReactors-1.9.4-0.4.5.6.jar",
+    "mc_version": "1.9.4",
+    "mod_authors": [
+        "ZeroNoRyouki"
+    ],
+    "url_website": "http://zerono.it/big-reactors",
+    "description": "This is a port of the Big Reactors mod by Erogenous Beef to the current Minecraft versions ",
+    "mod_version": "0.4.5.6",
+    "mod_dir": "/Extreme_Reactors/"
 }

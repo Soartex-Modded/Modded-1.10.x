@@ -1,10 +1,13 @@
 {
-  "mod_id": "cylic",
-  "mod_name": "Cylic",
-  "mod_dir": "/Cyclic/",
-  "mod_version": "1.8.9",
-  "mc_version": "1.10.2",
-  "mod_authors": ["Lothrazar"],
-  "url_website": "https://minecraft.curseforge.com/projects/cyclic",
-  "description": "Just a ton of random items and changes."
+    "mod_id": "cylic",
+    "mod_name": "Cylic",
+    "mod_filename": "Cyclic-1.10.2-1.7.18.jar",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "Lothrazar"
+    ],
+    "url_website": "http://minecraft.curseforge.com/projects/cyclic",
+    "description": "Tools, Machines, Gear, potions, villagers, fully configurable",
+    "mod_version": "1.7.18",
+    "mod_dir": "/Cyclic/"
 }

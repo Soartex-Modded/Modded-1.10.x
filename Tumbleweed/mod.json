@@ -1,0 +1,11 @@
+{
+    "mod_name": "Tumbleweed",
+    "mod_id": "tumbleweed",
+    "mod_version": "1.10-0.4.3",
+    "mod_authors": [
+        "konwboy"
+    ],
+    "description": "Tumbleweeds spawn around dead bushes in deserts. They drop random goodies upon destroying.",
+    "mod_dir": "/Tumbleweed/",
+    "url_website": "https://minecraft.curseforge.com/projects/tumbleweed"
+}

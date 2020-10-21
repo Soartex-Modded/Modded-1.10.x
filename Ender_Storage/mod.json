@@ -1,10 +1,14 @@
 {
-  "mod_id": "EnderStorage",
-  "mod_name": "Ender Storage",
-  "mod_dir": "/Ender_Storage/",
-  "mod_version": "v2.1.5.84",
-  "mc_version": "1.10.2",
-  "mod_authors": ["chicken_bones", "covers1624"],
-  "url_website": "https://minecraft.curseforge.com/projects/ender-storage-1-8",
-  "description": "Stores your stuff in the END!"
+    "mod_filename": "EnderStorage-1.10.2-2.2.1.106-universal.jar",
+    "mod_name": "Ender Storage",
+    "mod_id": "EnderStorage",
+    "mod_version": "v2.1.5.84",
+    "mc_version": "1.10.2",
+    "url_website": "https://minecraft.curseforge.com/projects/ender-storage-1-8",
+    "description": "Stores your stuff in the END!",
+    "mod_dir": "/Ender_Storage/",
+    "mod_authors": [
+        "chicken_bones",
+        "covers1624"
+    ]
 }

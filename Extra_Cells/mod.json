@@ -1,0 +1,15 @@
+{
+    "mod_id": "extracells",
+    "mod_name": "Extra Cells",
+    "mod_filename": "ExtraCells-1.7.10-2.2.71b121.jar",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "Destroyer7128",
+        "_ForgeUser16181044",
+        "_ForgeUser9582869"
+    ],
+    "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289077-ae-add-on-m3gas-extracells-2-1-x-2-2-x",
+    "description": "AE Addon",
+    "mod_version": "2.4.0",
+    "mod_dir": "/Extra_Cells/"
+}

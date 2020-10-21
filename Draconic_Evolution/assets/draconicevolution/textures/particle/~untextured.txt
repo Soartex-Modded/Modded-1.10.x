@@ -1,4 +1,0 @@
-celestial_manipulator.png
-particles.png
-reactor_beam.png
-reactor_energy_beam.png

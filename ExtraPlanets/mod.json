@@ -1,0 +1,13 @@
+{
+    "mod_id": "extraplanets",
+    "mod_name": "ExtraPlanets",
+    "mod_filename": "ExtraPlanets-1.6.0.jar",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "MJRLegends"
+    ],
+    "url_website": "https://minecraft.curseforge.com/projects/extraplanets",
+    "description": "An advanced Galacticraft Addon",
+    "mod_version": "0.5.6-Beta-Build",
+    "mod_dir": "/ExtraPlanets/"
+}

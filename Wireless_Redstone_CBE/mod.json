@@ -1,0 +1,12 @@
+{
+    "mod_filename": "WR-CBE-1.10.2-2.0.0.18-universal.jar",
+    "mod_id": "wireless-redstone-cbe",
+    "mod_name": "Wireless Redstone CBE",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "covers1624"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/wireless-redstone-cbe",
+    "description": "Transmits Redstone signals wirelessly",
+    "mod_dir": "/Wireless_Redstone_CBE/"
+}

@@ -1,0 +1,14 @@
+{
+    "mod_id": "jarm",
+    "mod_name": "Just A Raft Mod",
+    "mod_filename": "Just A Raft Mod-1.10-1.1.1.jar",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "Mrbysco",
+        "ShyNieke"
+    ],
+    "url_website": "",
+    "description": "Basically it adds not boats but rafts. You know, the logs that are tied together.",
+    "mod_version": "1.1.1",
+    "mod_dir": "/Just_A_Raft_Mod/"
+}

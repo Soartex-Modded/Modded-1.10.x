@@ -1,8 +1,0 @@
-chaos_guardian.png
-de_dragon.png
-guardian_crystal.png
-projectile_chaos.png
-projectile_energy.png
-projectile_fire.png
-projectile_ignition.png
-projectile_trail.png

@@ -1,0 +1,14 @@
+{
+    "mod_id": "betterwithmods",
+    "mod_name": "Better With Mods",
+    "mod_filename": "Better With Mods-0.14.24-1.10.2.jar",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "primetoxinz",
+        "BeetoGuy"
+    ],
+    "url_website": "",
+    "description": "Highly configurable expanision of the Vanilla game.",
+    "mod_version": "0.14.24 Beta",
+    "mod_dir": "/Better_With_Mods/"
+}

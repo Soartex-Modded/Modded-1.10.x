@@ -1,0 +1,15 @@
+{
+    "mod_id": "endercore",
+    "mod_name": "EnderCore",
+    "mod_filename": "EnderCore-1.10-0.4.0.33-alpha.jar",
+    "mc_version": "1.10",
+    "mod_authors": [
+        "tterrag1098",
+        "CrazyPants_MC",
+        "HenryLoenwind"
+    ],
+    "url_website": "http://enderio.com",
+    "description": "Library mod for Ender* projects and others",
+    "mod_version": "1.10-0.4.0.33-alpha",
+    "mod_dir": "/EnderCore/"
+}

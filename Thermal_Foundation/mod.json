@@ -1,0 +1,14 @@
+{
+    "mod_id": "thermal-foundation",
+    "mod_name": "Thermal Foundation",
+    "mod_filename": "ThermalFoundation-1.10.2-2.1.4.10-universal.jar",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "TeamCoFH",
+        "KingLemmingCoFH"
+    ],
+    "url_website": "http://www.teamcofh.com",
+    "description": "The Foundation of a Thermally Expanding World!",
+    "mod_version": "2.1.4.10",
+    "mod_dir": "/Thermal_Foundation/"
+}
