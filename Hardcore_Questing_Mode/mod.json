@@ -1,11 +1,15 @@
 {
-  "mod_id": "HardcoreQuesting",
-  "mod_name": "Hardcore Questing Mode",
-  "mod_dir": "/Hardcore_Questing_Mode/",
-  "mod_filename": "HQM-New Heights-1.10.2-5.0.0beta4.jar",
-  "mod_version": "1.10.2-5.0.0beta4",
-  "mc_version": "1.10.x",
-  "mod_authors": ["Vswe", "LordDusk", "Newcastlegeek"],
-  "url_website": "http://minecraft.curseforge.com/mc-mods/77027-hardcore-questing-mode",
-  "description": "This mod will add Hardcore mode with extra lives. If you use up your lives, your world will be deleted or you will be banned."
+    "mod_id": "hardcorequesting",
+    "mod_name": "Hardcore Questing Mode",
+    "mod_dir": "/Hardcore_Questing_Mode/",
+    "mod_filename": "HQM-New Heights-1.10.2-5.0.0beta4.jar",
+    "mod_version": "1.10.2-5.0.0beta4",
+    "mc_version": "1.10.x",
+    "mod_authors": [
+        "Vswe",
+        "LordDusk",
+        "Newcastlegeek"
+    ],
+    "url_website": "http://minecraft.curseforge.com/mc-mods/77027-hardcore-questing-mode",
+    "description": "This mod will add Hardcore mode with extra lives. If you use up your lives, your world will be deleted or you will be banned."
 }

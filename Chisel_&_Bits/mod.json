@@ -1,10 +1,12 @@
 {
-  "mod_id": "chiselandbits",
-  "mod_name": "Chisel & Bits",
-  "mod_dir": "/Chisel_&_Bits/",
-  "mod_version": "12.7",
-  "mc_version": "1.10.2",
-  "mod_authors": ["AlgorithmX2"],
-  "url_website": "https://minecraft.curseforge.com/projects/chisels-bits",
-  "description": "These tools enable you to create new custom decorative blocks .."
+    "mod_id": "chiselandbits",
+    "mod_name": "Chisel & Bits",
+    "mod_dir": "/Chisel_&_Bits/",
+    "mod_version": "12.7",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "AlgorithmX2"
+    ],
+    "url_website": "https://minecraft.curseforge.com/projects/chisels-bits",
+    "description": "These tools enable you to create new custom decorative blocks .."
 }

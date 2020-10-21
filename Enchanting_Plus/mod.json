@@ -1,10 +1,12 @@
 {
-  "mod_id": "eplus",
-  "mod_name": "Enchanting Plus",
-  "mod_dir": "/Enchanting_Plus/",
-  "mod_version": "4.0.0Beta",
-  "mc_version": "1.10.2",
-  "mod_authors": ["Darkhax"],
-  "url_website": "https://minecraft.curseforge.com/projects/enchanting-plus",
-  "description": "Provides a less random enchanting system"
+    "mod_id": "eplus",
+    "mod_name": "Enchanting Plus",
+    "mod_dir": "/Enchanting_Plus/",
+    "mod_version": "4.0.0Beta",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "Darkhax"
+    ],
+    "url_website": "https://minecraft.curseforge.com/projects/enchanting-plus",
+    "description": "Provides a less random enchanting system"
 }

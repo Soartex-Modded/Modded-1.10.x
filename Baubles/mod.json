@@ -1,10 +1,12 @@
 {
-  "mod_id": "baubles",
-  "mod_name": "Baubles",
-  "mod_dir": "/Baubles/",
-  "mod_version": "1.3.4",
-  "mc_version": "1.10.2",
-  "mod_authors": ["Azanor"],
-  "url_website": "https://minecraft.curseforge.com/projects/baubles",
-  "description": "Adding a touch of bling to Minecraft."
+    "mod_id": "baubles",
+    "mod_name": "Baubles",
+    "mod_dir": "/Baubles/",
+    "mod_version": "1.3.4",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "Azanor"
+    ],
+    "url_website": "https://minecraft.curseforge.com/projects/baubles",
+    "description": "Adding a touch of bling to Minecraft."
 }
