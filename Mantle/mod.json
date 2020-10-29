@@ -2,17 +2,14 @@
     "mod_id": "mantle",
     "mod_name": "Mantle",
     "mod_filename": "Mantle-1.7.10-0.3.2a.jar",
-    "mc_version": "1.10.2",
+    "mc_version": "1.8.9",
     "mod_authors": [
         "mDiyo",
-        "fuj1n",
-        "Alexbegt",
-        "ProgWML6",
-        "bonusboni",
-        "KnightMiner"
+        "Sunstrike",
+        "progWML6"
     ],
     "url_website": "https://github.com/SlimeKnights/Mantle",
     "description": "Shared code for Forge mods",
-    "mod_version": "1.1.5",
+    "mod_version": "0.7",
     "mod_dir": "/Mantle/"
 }

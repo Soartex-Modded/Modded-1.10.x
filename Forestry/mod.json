@@ -2,7 +2,7 @@
     "mod_id": "forestry",
     "mod_name": "Forestry",
     "mod_filename": "forestry_1.10.2-5.2.17.388.jar",
-    "mc_version": "1.10.2",
+    "mc_version": "1.11.2",
     "mod_authors": [
         "_ForgeUser7678633",
         "mezz",
@@ -11,6 +11,6 @@
     ],
     "url_website": "http://forestry.sengir.net/",
     "description": "Bringing bees, butterflies and more trees. as well as eco-friendly energy production and mail to Minecraft.",
-    "mod_version": "5.2.17.388",
+    "mod_version": "5.3.4.257",
     "mod_dir": "/Forestry/"
 }

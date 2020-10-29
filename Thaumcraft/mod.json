@@ -2,12 +2,12 @@
     "mod_id": "thaumcraft",
     "mod_name": "Thaumcraft",
     "mod_filename": "Thaumcraft-1.7.10-4.2.3.5.jar",
-    "mc_version": "1.10.2",
+    "mc_version": "1.8.9",
     "mod_authors": [
         "Azanor13"
     ],
     "url_website": "http://www.minecraftforum.net/topic/2011841-thaumcraft",
     "description": "Thaumaturgy is the capability of a magician to work miracles. This is what this mod is all about - drawing magic from physical objects in the form of Essentia and reshaping it to perform miracles.",
-    "mod_version": "1.10.2-6.0.BETA8",
+    "mod_version": "1.8.9-5.2.4",
     "mod_dir": "/Thaumcraft/"
 }

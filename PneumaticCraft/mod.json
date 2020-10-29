@@ -1,0 +1,13 @@
+{
+    "mod_id": "pneumaticcraft",
+    "mod_name": "PneumaticCraft",
+    "mod_filename": "PneumaticCraft-1.8.9-1.13.8-12-universal.jar",
+    "mc_version": "1.8.9",
+    "mod_authors": [
+        "MineMaarten"
+    ],
+    "url_website": "www.minemaarten.com",
+    "description": "A mod all about pneumatics",
+    "mod_version": "1.13.8-12",
+    "mod_dir": "/PneumaticCraft/"
+}
