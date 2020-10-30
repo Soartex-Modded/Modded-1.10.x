@@ -1,10 +1,12 @@
 {
-  "mod_id": "neotech",
-  "mod_name": "NeoTech",
-  "mod_dir": "/NeoTech/",
-  "mod_version": "4.0.0-B151",
-  "mc_version": "1.10.2",
- "mod_authors": ["TeamBRModding"],
-  "url_website": "https://minecraft.curseforge.com/projects/neotech",
-  "description": "A new take on a tech mod"
+    "mod_id": "neotech",
+    "mod_name": "NeoTech",
+    "mod_dir": "/NeoTech/",
+    "mod_version": "4.0.0-B151",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "TeamBRModding"
+    ],
+    "url_website": "https://minecraft.curseforge.com/projects/neotech",
+    "description": "A new take on a tech mod"
 }

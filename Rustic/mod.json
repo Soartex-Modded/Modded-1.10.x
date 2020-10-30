@@ -1,0 +1,13 @@
+{
+    "mod_id": "rustic",
+    "mod_name": "Rustic",
+    "mod_filename": "rustic-0.1.2.2.jar",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "mangoose3039"
+    ],
+    "url_website": "",
+    "description": "A Medieval Expansion Mod",
+    "mod_version": "0.1.2.2",
+    "mod_dir": "/Rustic/"
+}

@@ -1,10 +1,12 @@
 {
-  "mod_id": "visiblearmorslots",
-  "mod_name": "Visible Armor Slots",
-  "mod_dir": "/Visible_Armor_Slots/",
-  "mod_version": "2.0",
-  "mc_version": "1.10.2",
-  "mod_authors": ["bdew"],
-  "url_website": "http://minecraft.curseforge.com/projects/visible-armor-slots",
-  "description": "With this mod you can access the armor and off-hand slots from several inventories."
+    "mod_id": "visiblearmorslots",
+    "mod_name": "Visible Armor Slots",
+    "mod_dir": "/Visible_Armor_Slots/",
+    "mod_version": "2.0",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "bdew"
+    ],
+    "url_website": "http://minecraft.curseforge.com/projects/visible-armor-slots",
+    "description": "With this mod you can access the armor and off-hand slots from several inventories."
 }

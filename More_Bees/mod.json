@@ -1,10 +1,12 @@
 {
-  "mod_id": "morebees",
-  "mod_name": "More Bees",
-  "mod_dir": "/More_Bees/",
-  "mod_version": "1.1.4",
-  "mc_version": "1.10.2",
-  "mod_authors": ["Lach_01298"],
-  "url_website": "https://minecraft.curseforge.com/projects/more-bees",
-  "description": "Adds new bees and products to expand the bee breeding in Forestry."
+    "mod_id": "morebees",
+    "mod_name": "More Bees",
+    "mod_dir": "/More_Bees/",
+    "mod_version": "1.1.4",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "Lach_01298"
+    ],
+    "url_website": "https://minecraft.curseforge.com/projects/more-bees",
+    "description": "Adds new bees and products to expand the bee breeding in Forestry."
 }

@@ -1,0 +1,14 @@
+{
+    "mod_id": "primal",
+    "mod_name": "PrimalCore",
+    "mod_filename": "PrimalCore-0.2.39.jar",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "Aun_Sar",
+        "cScotPlay"
+    ],
+    "url_website": "https://minecraft.curseforge.com/projects/primalcore",
+    "description": "Early Game Survival, Expanded Nether, Monsters and Mystery",
+    "mod_version": "0.2.39",
+    "mod_dir": "/Primal_Core/"
+}

@@ -1,0 +1,13 @@
+{
+    "mod_id": "bibliocraft",
+    "mod_name": "BiblioCraft",
+    "mod_filename": "BiblioCraft[v2.2.5][MC1.10.2].jar",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "Nuchaz"
+    ],
+    "url_website": "http://www.bibliocraftmod.com",
+    "description": "Bookcases, armor stands, shelves and so much more!",
+    "mod_version": "2.2.5",
+    "mod_dir": "/BiblioCraft/"
+}

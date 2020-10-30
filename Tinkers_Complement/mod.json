@@ -1,0 +1,13 @@
+{
+    "mod_id": "tinkers-complement",
+    "mod_name": "Tinkers' Complement",
+    "mod_filename": "TinkersComplement-1.11.2-0.1.2.jar",
+    "mc_version": "1.11.2",
+    "mod_authors": [
+        "KnightMiner"
+    ],
+    "url_website": "https://minecraft.curseforge.com/projects/tinkers-complement",
+    "description": "Addon for Tinkers Construct to bring compatibility and features that don't fit in the base mod.",
+    "mod_version": "1.11.2-0.1.2",
+    "mod_dir": "/Tinkers_Complement/"
+}

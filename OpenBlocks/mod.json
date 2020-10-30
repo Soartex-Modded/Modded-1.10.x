@@ -1,0 +1,14 @@
+{
+    "mod_id": "openblocks",
+    "mod_name": "OpenBlocks",
+    "mod_filename": "OpenBlocks-1.10.2-1.7.1.jar",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "OpenMods",
+        "0x00716F62"
+    ],
+    "url_website": "http://openmods.info/",
+    "description": "Random collection of blocks. Some of which aren't blocks at all.",
+    "mod_version": "1.7.1",
+    "mod_dir": "/OpenBlocks/"
+}

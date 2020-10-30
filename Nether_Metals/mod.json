@@ -1,10 +1,12 @@
 {
-  "mod_id": "NetherMetals",
-  "mod_name": "Nether_Metals",
-  "mod_dir": "/Nether_Metals/",
-  "mod_version": "v1.9.1.1.2",
-  "mc_version": "1.10.2",
-  "mod_authors": ["knoxhack"],
-  "url_website": "https://minecraft.curseforge.com/projects/nether-metals",
-  "description": "Adds metal ores from other mods and vanilla to the Nether dimension"
+    "mod_id": "nethermetals",
+    "mod_name": "Nether_Metals",
+    "mod_dir": "/Nether_Metals/",
+    "mod_version": "v1.9.1.1.2",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "knoxhack"
+    ],
+    "url_website": "https://minecraft.curseforge.com/projects/nether-metals",
+    "description": "Adds metal ores from other mods and vanilla to the Nether dimension"
 }

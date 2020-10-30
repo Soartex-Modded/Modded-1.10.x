@@ -1,0 +1,15 @@
+{
+    "mod_id": "thermaldynamics",
+    "mod_name": "Thermal Dynamics",
+    "mod_filename": "ThermalDynamics-1.10.2-2.0.9.14-universal.jar",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "TeamCoFH",
+        "RWTema",
+        "KingLemmingCoFH"
+    ],
+    "url_website": "http://www.teamcofh.com",
+    "description": "Thermal gets Dynamic! Adds ducts - transportation for Redstone Flux, Fluids, and Items!",
+    "mod_version": "2.0.9.14",
+    "mod_dir": "/Thermal_Dynamics/"
+}

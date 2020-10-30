@@ -1,10 +1,12 @@
 {
-  "mod_id": "morefurnaces",
-  "mod_name": "More Furnaces",
-  "mod_dir": "/More_Furnaces/",
-  "mod_version": "v1.8.2",
-  "mc_version": "1.10.2",
-  "mod_authors": ["CubeX2"],
-  "url_website": "http://www.minecraftforum.net/topic/506109-",
-  "description": "new furnaces"
+    "mod_id": "morefurnaces",
+    "mod_name": "More Furnaces",
+    "mod_dir": "/More_Furnaces/",
+    "mod_version": "v1.8.2",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "CubeX2"
+    ],
+    "url_website": "http://www.minecraftforum.net/topic/506109-",
+    "description": "new furnaces"
 }

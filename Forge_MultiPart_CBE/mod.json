@@ -1,0 +1,13 @@
+{
+    "mod_id": "forge-multipart-cbe",
+    "mod_name": "Forge MultiPart CBE",
+    "mod_filename": "ForgeMultipart-1.10.2-2.0.0.38-universal.jar",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "ChickenBones"
+    ],
+    "url_website": "https://github.com/Chicken-Bones/ForgeMultipart",
+    "description": "An opensource library for having multiple things in the one block space",
+    "mod_version": "2.0.0.38",
+    "mod_dir": "/Forge_MultiPart_CBE/"
+}

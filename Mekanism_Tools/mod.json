@@ -1,0 +1,13 @@
+{
+    "mod_id": "mekanism-tools",
+    "mod_name": "Mekanism Tools",
+    "mod_filename": "MekanismTools-1.10.2-9.2.4.103.jar",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "aidancbrady"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/mekanism-tools",
+    "description": "Powerful tools and armor for Mekanism.",
+    "mod_version": "9.2.4",
+    "mod_dir": "/Mekanism_Tools/"
+}

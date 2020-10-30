@@ -1,0 +1,13 @@
+{
+    "mod_id": "shadowmc",
+    "mod_name": "ShadowMC",
+    "mod_filename": "ShadowMC-1.10.2-3.5.0.jar",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "ShadowfactsDev"
+    ],
+    "url_website": "http://github.com/shadowfacts/ShadowMC",
+    "description": "A library mod required by all of my other mods.",
+    "mod_version": "1.10.2-3.5.0",
+    "mod_dir": "/ShadowMC/"
+}

@@ -1,0 +1,14 @@
+{
+    "mod_name": "Car Mod",
+    "mod_id": "car",
+    "mod_version": "1.0.17",
+    "mc_version": "1.10.2",
+    "url_website": "",
+    "description": "Car Mod",
+    "mod_filename": "car-1.12.2-1.2.12.jar",
+    "mod_authors": [
+        "henkelmax",
+        "junanas"
+    ],
+    "mod_dir": "/Car_Mod/"
+}
