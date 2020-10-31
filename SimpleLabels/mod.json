@@ -1,0 +1,13 @@
+{
+    "mod_id": "simplelabels",
+    "mod_name": "SimpleLabels",
+    "mod_filename": "simplelabels-1-10.2-0.0.3.jar",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "insaneau"
+    ],
+    "url_website": "",
+    "description": "Labels for the Deep Storage Unit, and more!",
+    "mod_version": "1-10.2-0.0.3",
+    "mod_dir": "/SimpleLabels/"
+}

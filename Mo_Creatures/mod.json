@@ -1,12 +1,13 @@
 {
     "mod_id": "mocreatures",
     "mod_name": "Mo Creatures",
-    "mod_dir": "/Mo_Creatures/",
-    "mod_version": "10.0.5",
-    "mc_version": "1.10.x",
+    "mod_filename": "DrZharks MoCreatures Mod v6.3.1.zip",
+    "mc_version": "1.10.2",
     "mod_authors": [
-        "DrZhark"
+        "DrZharky"
     ],
-    "url_website": "http://mocreatures.org/",
-    "description": "This mod adds many more creatures to Minecraft."
+    "url_website": "http://www.mocreatures.org",
+    "description": "adds new mobs to minecraft",
+    "mod_version": "10.0.0",
+    "mod_dir": "/Mo_Creatures/"
 }
