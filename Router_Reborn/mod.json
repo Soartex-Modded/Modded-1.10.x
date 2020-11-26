@@ -1,0 +1,13 @@
+{
+    "mod_id": "router-reborn",
+    "mod_name": "Router Reborn",
+    "mod_filename": "RouterReborn-1.10.2-4.0.1.100_universal.jar",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "TomEVoll"
+    ],
+    "url_website": "",
+    "description": "Bring's the good old router back to Minecraft 1.7+",
+    "mod_version": "1.10.2-4.0.1.100_universal",
+    "mod_dir": "/Router_Reborn/"
+}

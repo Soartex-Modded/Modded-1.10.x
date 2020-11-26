@@ -1,16 +1,16 @@
 {
-    "mod_id": "base",
     "mod_name": "B.A.S.E",
-    "mod_filename": "base-1.12.2-3.13.0.jar",
+    "mod_id": "base",
+    "mod_version": "1.10-null",
     "mc_version": "1.10",
+    "url_website": "http://minecraft.curseforge.com/projects/b-a-s-e",
+    "description": "Placeholder Text",
+    "mod_filename": "base-1.12.2-3.13.0.jar",
     "mod_authors": [
         "lanse505",
         "Jaredlll08",
         "FreneticScribbler",
         "Sky_Som"
     ],
-    "url_website": "http://minecraft.curseforge.com/projects/b-a-s-e",
-    "description": "Main Library for The Acronym Coders Mod Projects",
-    "mod_version": "1.10-null",
     "mod_dir": "/B_A_S_E/"
 }

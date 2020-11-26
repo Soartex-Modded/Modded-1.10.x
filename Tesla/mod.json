@@ -1,0 +1,9 @@
+{
+    "mod_name": "TESLA",
+    "mod_id": "tesla",
+    "mod_version": "1.10.2-1.2.1.49",
+    "mc_version": "1.10.2",
+    "url_website": "",
+    "description": "A modern power API",
+    "mod_dir": "/Tesla/"
+}
